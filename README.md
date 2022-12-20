@@ -14,5 +14,7 @@ all you need :
 
 
 3 install those libraries:
+
   pip install requests
+  
   pip install pandas
