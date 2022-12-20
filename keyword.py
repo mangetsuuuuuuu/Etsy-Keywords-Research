@@ -36,7 +36,6 @@ with open(f'Done.csv' , 'a', encoding='utf8') as done:
         writer = csv.writer(done)
         writer.writerow(cool)
 ok = slice(0,-13)
-sort_on = ['created', 'price', 'score']
 
 def keyword_digital(keyword,api):
     for page in range(1,501):
