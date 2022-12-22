@@ -9,6 +9,8 @@ import pandas as pd
 #CONTACT 0xSp3ar#5560
 keyword =""
 tag=""
+#you delete change api = "YOUR API" to save time
+
 api=str(input('''
     ___________________  __
    / ____/_  __/ ___/\ \/ /
