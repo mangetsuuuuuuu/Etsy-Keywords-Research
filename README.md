@@ -1,8 +1,7 @@
 # Etsy-Keywords-Research
 Etsy Keywords Research
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3QEyvhjxmG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+Tutorial : https://youtu.be/3QEyvhjxmG4
 
 You can Get HOT Trend Products by keyword
 
