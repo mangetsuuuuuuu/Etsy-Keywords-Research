@@ -30,7 +30,7 @@ Enter Number :'''))
 all_or_no = str(input('''
 1 - all
 2 - only digital
-'''))
+Enter Number :'''))
 cool = ['vw','fav','Date','Qnt','price','title','url']
 with open(f'Done.csv' , 'a', encoding='utf8') as done:
         writer = csv.writer(done)
