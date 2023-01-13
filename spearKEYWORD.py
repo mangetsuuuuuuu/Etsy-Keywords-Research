@@ -9,7 +9,9 @@ import pandas as pd
 #CONTACT 0xSp3ar#5560
 keyword =""
 tag=""
-#you delete change api = "YOUR API" to save time
+#you can change api = "YOUR API" to save time
+#delete from line 16 to 26 
+#and in new line type api=YOURAPI
 
 api=str(input('''
     ___________________  __
@@ -175,25 +177,32 @@ if method_search == "1":
     if all_or_no == "1":
         keyword=input("Enter Keyword : ")
         keywordall(keyword,api)
+        print("Wait until script finish...")
     elif all_or_no == "2":
         keyword=input("Enter Keyword : ")
         keyword_digital(keyword,api)
+        print("Wait until script finish...")
 elif method_search == "2":
     if all_or_no == "1":
         tag=input("Enter Tag : ")
         tagall(tag,api)
+        print("Wait until script finish...")
     elif all_or_no == "2":
         tag=input("Enter Tag : ")
         tagdigital(tag,api)
+        print("Wait until script finish...")
 elif method_search == "3":
         if all_or_no == "1":
             keyword=input("Enter Keyword : ")
             tag=input("Enter Tag : ")
             keywordTagall(keyword,tag,api)
+            print("Wait until script finish...")
         elif all_or_no == "2":
             keyword=input("Enter Keyword : ")
             tag=input("Enter Tag : ")
             keywordTagdigital(keyword,tag,api)
+            print("Wait until script finish...")
 
 
 print("DONE!!")
+print("Don't Forget To Join 5AFAYA Server : https://discord.gg/tVvVPctNcj ")
