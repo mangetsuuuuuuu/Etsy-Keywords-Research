@@ -5,8 +5,8 @@ import csv
 import time
 from datetime import datetime
 import pandas as pd
-#THIS TOOL MADED BY 0xSp3aR
-#CONTACT 0xSp3ar#5560
+#THIS TOOL MADED BY Mangetsuuuuuuu
+#CONTACT Mangetsuuuuuuu
 keyword =""
 tag=""
 #you can change api = "YOUR API" to save time
@@ -19,7 +19,7 @@ api=str(input('''
   / __/   / /  \__ \  \  / 
  / /___  / /  ___/ /  / /  
 /_____/ /_/  /____/  /_/                              
-                        By 0xSp3ar#5560
+                        By Mangetsuuuuuuu
 Get You Api From https://www.etsy.com/developers/register
 NOTE : SHOULD BE ACTIVE
 
