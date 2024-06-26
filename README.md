@@ -1,5 +1,6 @@
 # Etsy-Keywords-Research
 Etsy Keywords Research
+
 UPDATE A-2024 : This Script No Working With New Api , you should have active api created before 2021 .
 Tutorial : https://youtu.be/3QEyvhjxmG4
 
